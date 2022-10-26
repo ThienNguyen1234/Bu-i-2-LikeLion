@@ -1,0 +1,79 @@
+.div0 {
+  text-align: center;
+}
+
+.div10 {
+  background-color: rgb(230, 230, 2);
+}
+
+body {
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  border-color: rgb(184, 176, 176);
+  border-width: 60px;
+  border-style: groove;
+}
+
+.div15 {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  border-color: rgb(253, 214, 162);
+  border-width: 30px;
+  border-style: solid;
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+}
+
+.div1 {
+  background-color: aqua;
+  text-align: center;
+}
+.div2 {
+  background-color: blueviolet;
+  text-align: center;
+}
+.div3 {
+  background-color: chocolate;
+  text-align: center;
+}
+.div4 {
+  background-color: darkorange;
+  text-align: center;
+}
+
+.span2 {
+  color: white;
+  background-color: slategrey;
+}
+.span1 {
+  color: white;
+  background-color: salmon;
+  font-size: 120%;
+}
+.span3 {
+  color: white;
+  background-color: slategrey;
+}
+
+.span4 {
+  color: white;
+  background-color: slategrey;
+}
+
+.span5 {
+  color: white;
+  background-color: slategrey;
+}
+
+.span6 {
+  color: white;
+  background-color: black;
+  font-size: 120%;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
